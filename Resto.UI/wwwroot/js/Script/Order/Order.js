@@ -91,7 +91,7 @@ var TableOrderHeader = {
                 contentType: 'application/json',
                 dataSrc: ""
             },
-            filter: false,
+            filter: true,
             lengthMenu: [5, 10, 15],
             destroy: true,
             columns: [
